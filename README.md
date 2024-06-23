@@ -1,8 +1,6 @@
 # Exoplanet Explorer
 
-**Repository Description:**
-
-Welcome to the Exoplanet Explorer repository! This project is an exciting and immersive game where you remotely pilot a rover on alien planets to collect vital resources needed to save Earth. Dive into the unknown, explore diverse extraterrestrial terrains, and gather the elements required to avert an impending global crisis. 
+This is an exciting and immersive game where you remotely pilot a rover on alien planets to collect vital resources needed to save Earth. Dive into the unknown, explore diverse extraterrestrial terrains, and gather the elements required to avert an impending global crisis. 
 
 **Features:**
 
@@ -14,4 +12,4 @@ Welcome to the Exoplanet Explorer repository! This project is an exciting and im
 - **Immersive Storyline**: Follow a compelling narrative that unfolds as you progress, revealing the stakes of your mission and the backstory of the exoplanetary expeditions.
 - **Real-time Strategy Elements**: Make strategic decisions in real-time, balancing the need for speed, safety, and resource efficiency.
 
-Happy exploring, and thank you for contributing to the Exoplanet Explorer project!
+Happy exploring!
