@@ -1,15 +1,47 @@
 # Exoplanet Explorer
 
-This is an exciting and immersive game where you remotely pilot a rover on alien planets to collect vital resources needed to save Earth. Dive into the unknown, explore diverse extraterrestrial terrains, and gather the elements required to avert an impending global crisis. 
+## Overview
 
-**Features:**
+**Exoplanet Explorer** is an immersive game where you remotely pilot a rover on alien planets to collect valuable resources needed to save Earth. Navigate through diverse landscapes, overcome challenges, and ensure the survival of humanity by gathering essential materials from other worlds.
 
-- **Realistic Rover Controls**: Experience the challenge of controlling a rover remotely with intuitive yet complex controls designed to mimic real-life rover missions.
-- **Diverse Alien Environments**: Navigate through various alien landscapes, each with unique challenges and resources. From icy wastelands to dense alien jungles, no two planets are the same.
-- **Resource Management**: Strategically collect and manage resources. Decide what to gather based on the needs of Earth and the conditions of the planets.
-- **Mission Objectives**: Complete a series of missions, each with specific goals and challenges. As you progress, missions become more complex, requiring careful planning and execution.
-- **Upgrades and Customization**: Enhance your rover with upgrades and customizations to improve performance and adapt to different environments.
-- **Immersive Storyline**: Follow a compelling narrative that unfolds as you progress, revealing the stakes of your mission and the backstory of the exoplanetary expeditions.
-- **Real-time Strategy Elements**: Make strategic decisions in real-time, balancing the need for speed, safety, and resource efficiency.
+## Table of Contents
 
-Happy exploring!
+- [Features](#features)
+- [Gameplay](#gameplay)
+- [Controls](#controls)
+
+## Features
+
+- **Remote Rover Piloting:** Control a high-tech rover equipped with advanced tools and gadgets.
+- **Alien Landscapes:** Explore procedurally generated planets with unique terrains and environments.
+- **Resource Collection:** Gather various resources to fulfill mission objectives and save Earth.
+- **Challenges:** Overcome environmental hazards, hostile creatures, and technical malfunctions.
+- **Upgrade System:** Enhance your rover with better equipment and capabilities as you progress.
+- **Story Mode:** Experience a rich narrative that unfolds as you explore different planets.
+- **Multiplayer Mode:** Collaborate with friends in online co-op missions.
+
+## Gameplay
+
+### Objectives
+
+- **Primary Goal:** Collect specified resources from alien planets to support Earth's survival efforts.
+- **Secondary Goals:** Complete side missions, discover hidden artifacts, and upgrade your rover.
+
+### Exploration
+
+- **Planetary Exploration:** Use the rover to traverse various alien landscapes, each with unique challenges and resources.
+- **Resource Collection:** Gather resources like minerals, gases, and biological samples using the rover's tools.
+
+### Challenges
+
+- **Environmental Hazards:** Navigate through extreme weather conditions, toxic atmospheres, and unstable terrains.
+- **Hostile Entities:** Avoid or neutralize alien creatures that pose threats to your rover.
+- **Technical Malfunctions:** Repair and maintain the rover's systems to ensure mission success.
+
+## Controls
+
+- **Movement:** `WASD` or arrow keys to move the rover.
+- **Camera Control:** Mouse movement to look around.
+- **Resource Collection:** `E` to interact and collect resources.
+- **Tools:** `1-4` to switch between different tools.
+- **Pause Menu:** `Esc` to access the pause menu.
